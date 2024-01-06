@@ -1,0 +1,130 @@
+﻿  main.c
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(268,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(381,22): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'unsigned int *'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(537,30): warning C4018: '<': signed/unsigned mismatch
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(323,3): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(671,34): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(718,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(744,29): warning C4018: '<': signed/unsigned mismatch
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(844,48): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(1004,114): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(1014,112): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(1025,116): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(1036,110): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(1110,3): warning C4033: 'WaveLoadWave' must return a value
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Defines.h(3,1): warning C4005: 'ARRAYSIZE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1375,1): message : see previous definition of 'ARRAYSIZE'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Vector.h(144,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Vector.h(590,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Vector.h(595,36): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Vector.h(626,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Vector.h(632,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Vector.h(638,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(74,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(120,30): warning C4047: '!=': 'unsigned int' differs in levels of indirection from 'void *'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(120,63): warning C4047: '!=': 'unsigned int' differs in levels of indirection from 'void *'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(197,19): warning C4133: '=': incompatible types - from 'char *' to 'const uint32_t *'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(354,23): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(564,23): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(661,31): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(661,54): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(662,31): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(663,31): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(663,54): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(48,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(84,6): warning C4013: 'CreateVertexBuffer' undefined; assuming extern returning int
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(87,6): warning C4013: 'CreateIndexBuffer' undefined; assuming extern returning int
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(120,72): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(133,40): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(133,58): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(130,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(131,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(158,27): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(180,43): warning C4090: '=': different 'const' qualifiers
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(239,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(245,47): warning C4090: '=': different 'const' qualifiers
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(263,36): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(263,42): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(263,48): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(272,41): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(272,46): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(282,31): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(282,67): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(221,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(302,4): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(303,27): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(315,47): warning C4090: '=': different 'const' qualifiers
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(324,36): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(324,42): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(324,48): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(331,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(365,41): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(365,46): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(393,35): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(393,92): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(334,15): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(334,50): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(366,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(424,47): warning C4090: '=': different 'const' qualifiers
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(435,36): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(435,42): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(435,48): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(443,41): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(443,46): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(454,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(454,111): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(454,133): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(405,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(405,56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(482,47): warning C4090: '=': different 'const' qualifiers
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(530,46): warning C4090: '=': different 'const' qualifiers
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(554,53): warning C4244: 'function': conversion from 'uint32_t' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(554,76): warning C4244: 'function': conversion from 'uint32_t' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(6,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(95,16): warning C4013: 'CreateTextureImage' undefined; assuming extern returning int
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(104,2): warning C4013: 'CreateTextureDescriptorSets' undefined; assuming extern returning int
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(165,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(166,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(202,44): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(204,44): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(109,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(362,56): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(379,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(379,77): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(384,63): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(392,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(417,54): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(417,78): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(418,47): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Sandbox.h(422,47): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkInstance.h(17,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkRenderPass.h(37,34): warning C4047: '=': 'uint32_t' differs in levels of indirection from 'void *'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(85,25): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(86,26): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(128,38): warning C4305: '=': truncation from 'double' to 'float'
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(219,46): warning C4090: 'function': different 'const' qualifiers
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(220,50): warning C4090: 'function': different 'const' qualifiers
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(234,106): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(234,134): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(250,31): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(257,31): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(264,31): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(320,101): warning C4244: 'function': conversion from 'uint32_t' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkGraphicsPipeline.h(320,124): warning C4244: 'function': conversion from 'uint32_t' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkFrameBuffers.h(37,58): warning C4244: 'function': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkColorResources.h(7,7): warning C4013: 'CreateImage' undefined; assuming extern returning int
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkTextureImage.h(128,11): warning C4098: 'GenerateMipmaps': 'void' function returning a value
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkTextureImage.h(209,1): warning C4142: 'CreateTextureImage': benign redefinition of type
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkTextureImage.h(221,27): warning C4244: 'function': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Renderer\VkTextureImage.h(221,62): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating code
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(376): warning C4715: 'FindSupportedFormat': not all control paths return a value
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(776): warning C4715: 'WaveGetFloatsFromLine': not all control paths return a value
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\Helper.h(216): warning C4715: 'FindMemoryType': not all control paths return a value
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\WaveLoader.h(1135): warning C4715: 'WaveLoadWave': not all control paths return a value
+D:\Projects Backup\06.01.2024\Vulkan C99\Vulkan C99\GUI.h(458): warning C4716: 'GUICheckBox': must return a value
+  317 of 319 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Vulkan C99.vcxproj -> D:\Projects Backup\06.01.2024\Vulkan C99\x64\Release\Vulkan C99.exe
